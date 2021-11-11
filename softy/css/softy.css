@@ -6,6 +6,12 @@
 
 .container {
     width: 100%;
+
+}
+
+section {
+    width: 100%;
+    height: 100%;
 }
 
 .header {
@@ -127,4 +133,40 @@
     margin-top: 15px;
     width: 70%;
     text-align: center;
+}
+
+.content {
+    width: 70%;
+    left: 17%;
+    margin-top: 15%;
+}
+
+.cont {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.cont-text {
+    width: 400px;
+    height: 200px;
+}
+
+.cont-text p {
+    margin-top: 20px;
+}
+
+.cont1-img {
+    margin: 70px;
+}
+
+.cont2-img {
+    margin: 70px;
+}
+
+.content3 {
+    
+    height: 1200px;
+    background-color: #ffffff00;
 }
