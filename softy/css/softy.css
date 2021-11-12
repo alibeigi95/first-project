@@ -166,7 +166,37 @@ section {
 }
 
 .content3 {
-    
     height: 1200px;
     background-color: #ffffff00;
+}
+
+.cont4-img {
+    width: 100%;
+}
+
+.cont4-text {
+    bottom: -140%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont4-text h2 {
+    color: #fff;
+}
+
+.cont4-text p {
+    margin-top: 20px;
+    color: #fff;
+    width: 70%;
+
+}
+
+.content4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
