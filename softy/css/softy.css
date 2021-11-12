@@ -305,7 +305,7 @@ section {
     height: 500px;
 }
 
-.cont6 button{
+.cont6 button {
     width: 200px;
     height: 50px;
     background-color: #8266eb;
@@ -314,12 +314,12 @@ section {
     margin-top: 20px;
 }
 
-.cont6 button a{
+.cont6 button a {
     text-decoration: none;
     color: #fff;
 }
 
-.price{
+.price {
     width: 350px;
     height: 100px;
     background-color: #8266eb;
@@ -333,6 +333,41 @@ section {
     margin-top: 20px;
 }
 
-.pink{
+.pink {
     background-color: #fd5c9e;
+}
+
+.content7 {
+    width: 100%;
+    height: 100%;
+}
+
+.cont7-img {
+    width: 100%;
+}
+
+.numbers h1 {
+    color: #fff;
+    font-size: 35px;
+}
+
+.numbers h3 {
+    color: #fff;
+    margin-top: 20px;
+    
+}
+
+.numbers{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.cont7-number {
+    top: 467%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    left: 190px;
 }
