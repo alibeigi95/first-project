@@ -175,7 +175,7 @@ section {
 }
 
 .cont4-text {
-    bottom: -140%;
+    bottom: -150%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -199,4 +199,30 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.cont4-cards {
+    display: flex;
+    margin-top: 10%;
+}
+
+.cont4-card {
+    width: 150px;
+    height: 180px;
+    background-color: #fff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.cont4-card h4 {
+    margin-top: 20px;
+}
+
+.cont4-card p {
+    margin-top: 10px;
 }
