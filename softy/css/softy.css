@@ -354,13 +354,14 @@ section {
 .numbers h3 {
     color: #fff;
     margin-top: 20px;
-    
+
 }
 
-.numbers{
+.numbers {
     margin-right: 5%;
     margin-left: 5%;
 }
+
 .cont7-number {
     top: 467%;
     width: 80%;
@@ -370,4 +371,52 @@ section {
     align-items: center;
     text-align: center;
     left: 190px;
+}
+
+.content8 {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card-photos {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.card-photo {
+    width: 380px;
+    height: 500px;
+}
+
+.card-photo h2 {
+    margin-top: 25px;
+}
+
+.card-photo p {
+    margin-top: 25px;
+}
+
+.card-photo button {
+    width: 140px;
+    height: 50px;
+    margin-top: 25px;
+    background-color: #8266eb;
+    border-radius: 50px;
+    border: none;
+}
+
+.card-photo a{
+    text-decoration: none;
+    color: #fff;
 }
