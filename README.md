@@ -1,3 +1,5 @@
-# first-project
-my first project from frontend
-If you read this text, help me write better code. Thanks
+# First Frontend Project
+
+## My first frontend project
+
+If you're reading this, help me write better code. Thanks.
