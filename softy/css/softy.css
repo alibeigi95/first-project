@@ -416,7 +416,92 @@ section {
     border: none;
 }
 
-.card-photo a{
+.card-photo a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.content9 {
+    width: 100%;
+    height: 700px;
+    background-color: #f2f2fe;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.contact-us {
+    width: 70%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contact-text {
+    width: 30%;
+    height: 100%;
+}
+
+.contact-text p {
+    text-align: left;
+    margin-top: 40px;
+}
+
+.contact-text h4 {
+    text-align: left;
+    font-size: 20px;
+}
+
+.contact-input {
+    width: 70%;
+    height: 100%;
+}
+
+.full-name {
+    width: 300px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    padding-left: 20px;
+
+}
+
+.email {
+    width: 300px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 50px;
+    border: none;
+    padding-left: 20px;
+}
+
+.message {
+    width: 620px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 50px;
+    border: none;
+    padding-left: 20px;
+    padding-bottom: 100px;
+}
+
+.content9 button {
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: #8266eb;
+    margin-top: 15px;
+    margin-right: 27rem;
+}
+
+.content9 button a {
     text-decoration: none;
     color: #fff;
 }
